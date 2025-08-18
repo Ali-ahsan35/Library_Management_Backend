@@ -51,9 +51,9 @@ It allows managing books, borrowing books, and tracking availability with valida
 ├── package.json
 └── tsconfig.json
 ```
-##⚡ Getting Started
+## Getting Started
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/library-management.git
+git clone (https://github.com/Ali-ahsan35/Library_Management_Backend.git)
 cd library-management
 
 ### 2️⃣ Install Dependencies
