@@ -11,3 +11,4 @@ dist/
 .env
 
 package-lock.json
+.vercel
